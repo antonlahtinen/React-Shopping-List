@@ -1,0 +1,26 @@
+@hostname = localhost
+@port = 5000
+@host = {{hostname}}:{{port}}/api/v1
+
+GET http://{{host}}/items
+
+ 
+###
+GET http://localhost:5000/api/v1/items/1
+
+
+###
+POST http://localhost:5000/api/v1/items
+content-type: application/json
+
+{
+    "name": "Spaghetti",
+    "quantity": 1
+}
+
+
+###
+DELETE http://localhost:5000/api/v1/items/2
+
+
+```
