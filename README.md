@@ -1,29 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/iuze45af)
-# Final-project
+# React Shopping List
 
-- Frontend URL: https://23wsp-pro1.course.tamk.cloud
-- Backend URL: https://23wsp-pro1.course.tamk.cloud/api/v1
+School project that was developed by team of two. Separate frontend and backend deployed in a remote server using GitHub Actions and Docker.
 
-## Members
-- Santeri Karppinen -Karppimc
-- Anton Lahtinen -antonlahtinen
+Our frontend (React) fetches items from our backend (NodeJS, Express).
+
+![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/b0397410-5da9-43aa-86e1-da5b2aea09b2)
+
+![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/4cbf1c46-5fea-45ff-abf5-b5e5054b7e0d)
 
 
-## Running app locally
 
-- Git clone
-- $cd to cloned folder
-- $docker-compose up -d
-- App runs locally
-
-## Compeled phases
-
-1. Phase 1: Initial setup (5p)
-2. Phase 2: Dockerize localhost (5 p)
-3. Phase 3: CI/CD Pipeline & Remote Server (5 p)
-4. Phase 4: Implement the Shopping Application features (10p)
-5. Phase 5: Testing (5 p)
-
-## Expected Grade
-
-4 or 5
