@@ -1,6 +1,6 @@
 # React Shopping List
 
-School project that was developed by team of two. Separate frontend and backend deployed in a remote server using GitHub Actions and Docker.
+Full stack school project that was developed by team of two. Separate frontend and backend deployed in a remote server using GitHub Actions and Docker.
 
 Our frontend (React) fetches items from our backend (NodeJS, Express).
 
