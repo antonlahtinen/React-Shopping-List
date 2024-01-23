@@ -10,7 +10,8 @@ Backend has ENDPOINTS:
 - POST
 - DELETE
 
-![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/b0397410-5da9-43aa-86e1-da5b2aea09b2)
+![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/1eabbc61-45a9-4008-a408-2c55275b4ae9)
+
 
 ![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/4cbf1c46-5fea-45ff-abf5-b5e5054b7e0d)
 
