@@ -13,7 +13,8 @@ Backend has ENDPOINTS:
 ![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/1eabbc61-45a9-4008-a408-2c55275b4ae9)
 
 
-![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/3d5c7043-3214-4434-9965-1f0c861feb95)
+![image](https://github.com/antonlahtinen/React-Shopping-List/assets/115111370/5f0ea65a-8c9a-40e2-9261-437d5581e887)
+
 
 
 
